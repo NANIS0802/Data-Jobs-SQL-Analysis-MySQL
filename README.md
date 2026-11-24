@@ -69,9 +69,3 @@ The SQL script (`job_market_analysis.sql`) answers **7 core business questions**
 * **Python dominates Data Science & Engineering:** Data Scientist (`38.33%`), Senior Data Scientist (`48.53%`), and Data Engineer (`31.52%`) roles show significantly higher Python demand compared to traditional analyst positions.
 
 ---
-
-## 🚀 How to Run
-1. Create and select the database in MySQL 8.0+:
-   ```sql
-   CREATE DATABASE IF NOT EXISTS job_market_db;
-   USE job_market_db;
